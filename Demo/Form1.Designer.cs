@@ -38,7 +38,7 @@
             this.btnGenID.Name = "btnGenID";
             this.btnGenID.Size = new System.Drawing.Size(174, 23);
             this.btnGenID.TabIndex = 0;
-            this.btnGenID.Text = "产生一个 ID";
+            this.btnGenID.Text = "产生 10 个 ID";
             this.btnGenID.UseVisualStyleBackColor = true;
             this.btnGenID.Click += new System.EventHandler(this.btnGenID_Click);
             // 

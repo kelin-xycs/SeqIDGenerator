@@ -15,7 +15,7 @@ namespace SeqIDGenerator
 
         private static DateTime d2;
 
-        private static int no;
+        private static int no = 0;
 
         private static object lockObj = new object();
 
@@ -44,10 +44,10 @@ namespace SeqIDGenerator
                     || d.Year != d2.Year)
                 {
                     d2 = d;
-                    no = -1;
+                    no = 0;
                 }
 
-                return d.ToString("yyyyMMddHHmmssfff" + "-" + machineID + "-" + no.ToString("0000"));
+                return d.ToString("yyyyMMddHHmmssfff" + "-" + machineID + "-" + (no++).ToString("0000"));
             }
         }
     }
