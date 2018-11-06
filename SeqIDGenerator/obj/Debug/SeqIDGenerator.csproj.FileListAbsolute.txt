@@ -1,0 +1,5 @@
+C:\新建文件夹\Projects 4\SeqIDGenerator\SeqIDGenerator\bin\Debug\SeqIDGenerator.dll
+C:\新建文件夹\Projects 4\SeqIDGenerator\SeqIDGenerator\bin\Debug\SeqIDGenerator.pdb
+C:\新建文件夹\Projects 4\SeqIDGenerator\SeqIDGenerator\obj\Debug\SeqIDGenerator.csprojResolveAssemblyReference.cache
+C:\新建文件夹\Projects 4\SeqIDGenerator\SeqIDGenerator\obj\Debug\SeqIDGenerator.dll
+C:\新建文件夹\Projects 4\SeqIDGenerator\SeqIDGenerator\obj\Debug\SeqIDGenerator.pdb
